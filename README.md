@@ -2,27 +2,27 @@
 
 This repository list books that I have read.
 
-## Frontend
+## React
 - [モダンJavaScriptの基本から始める React実践の教科書](https://www.sbcr.jp/product/4815610722/)
 - [Reactハンズオンラーニング 第2版](https://www.oreilly.co.jp/books/9784873119380/)
 - [TypeScriptとReact/Next.jsでつくる 実践Webアプリケーション開発](https://gihyo.jp/book/2022/978-4-297-12916-3)
 
 
-## Backend
+## Django
 - [動かして学ぶ！Python Django開発入門 第2版](https://www.shoeisha.co.jp/book/detail/9784798174198)  
     - ([repo](https://github.com/kadu-v/django-learn))
 
 
-## Mobile app
+## Flutter
 - [Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_introduction)  
     - ([repo](https://github.com/kadu-v/flutter-learn))
 
-## Container
+## Docker
 - [仕組みと使い方がわかる Docker&Kubernetesのきほんのきほん](https://book.mynavi.jp/ec/products/detail/id=120304)
 - [Dockerコンテナ開発・環境構築の基本 impress top gearシリーズ](https://book.impress.co.jp/books/1120101031)
 
 
-## Deep learning
+## Python・Keras・Pytorch
 - [PythonとKerasによるディープラーニング](https://book.mynavi.jp/ec/products/detail/id=90124)  
     - ([repo](https://github.com/kadu-v/deep_learning_with_python))
 - [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)
@@ -57,7 +57,7 @@ This repository list books that I have read.
 - [高位合成によるFPGA回路設計](https://www.morikita.co.jp/books/mid/078741)
 
 
-## Raspi / Micro Controlor
+## Raspberry Pi・Micro Contrller
 - [Raspberry Piクックブック 第3版](https://www.oreilly.co.jp/books/9784873119410/)
 - [Rust on Bare-metal Raspberry Pi Vol1~3](https://booth.pm/ja/items/1890209)
 - [基礎から学ぶ 組込みRust](https://www.c-r.com/book/detail/1403)
