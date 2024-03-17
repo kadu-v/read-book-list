@@ -74,8 +74,15 @@ This repository list books that I have read.
 
 ### Raspberry Pi・Micro Contrller
 - [Raspberry Piクックブック 第3版](https://www.oreilly.co.jp/books/9784873119410/)
+- [最新Pico W対応！ラズパイPico完全ガイド](https://info.nikkeibp.co.jp/media/RAS/atcl/books/021300015/)
 - [Rust on Bare-metal Raspberry Pi Vol1~3](https://booth.pm/ja/items/1890209)
 - [基礎から学ぶ 組込みRust](https://www.c-r.com/book/detail/1403)
+
+
+## IoT・Agriculture
+- [野菜を自動仕分けするAIマシン製作奮闘記 IT農家のラズパイ製ディープ・ラーニング・カメラ](https://shop.cqpub.co.jp/detail/2423/)
+- [Raspberry Piからはじめるカメラ撮&IoT栽培 ラズパイ・Arduino農業実験集](https://shop.cqpub.co.jp/hanbai/books/59/59881.html)
+
 
 ## Languages
 ### Rust
