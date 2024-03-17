@@ -5,6 +5,21 @@ This repository list books that I have read.
 ## Network
 - [ゼロからわかるネットワーク超入門 ―基礎知識からTCP/IPまで 改訂第3版](https://gihyo.jp/book/2023/978-4-297-13643-7)
 - [［改訂新版］3分間ネットワーク基礎講座](https://gihyo.jp/book/2010/978-4-7741-4373-6)
+- [マスタリングTCP/IP　入門編（第6版](https://www.ohmsha.co.jp/book/9784274224478/)
+    - reading now
+
+## Design Pattern・Architecture
+### Design Pattern
+- [Head Firstデザインパターン 第2版 ―頭とからだで覚えるデザインパターンの基本](https://www.oreilly.co.jp/books/9784873119762/)
+    - not yet
+- [デザインパターンとともに学ぶ
+オブジェクト指向のこころ](https://www.maruzen-publishing.co.jp/item/?book_no=294729)
+    - not yet
+### Architecture
+- [ソフトウェアアーキテクチャの基礎](https://www.oreilly.co.jp//books/9784873119823/)
+    - reading now
+- [コンピュータの構成と設計　MIPS Edition　第6版　下](https://bookplus.nikkei.com/atcl/catalog/21/S70100/?cx_testId=4&cx_testVariant=cx_1&cx_artPos=2&i_cid=nbpbkp_atcl_rec#cxrecs_s)
+    - not yet
 
 ## Web
 ### React
@@ -61,8 +76,10 @@ This repository list books that I have read.
 - [RISC-VとChiselで学ぶ はじめてのCPU自作](https://gihyo.jp/book/2021/978-4-297-12305-5)
     - ([repo](https://github.com/kadu-v/kcpu))
 - [コンピュータシステムの理論と実装 ―モダンなコンピュータの作り方](https://www.oreilly.co.jp/books/9784873117126/)
-    - ([repo](https://github.com/nishi-7/ChiselHackCPU))
+    - ([repo that has my cpu implemnted by FPGA](https://github.com/nishi-7/ChiselHackCPU))
 - [ディジタル回路設計とコンピュータアーキテクチャ 第2版](https://www.shoeisha.co.jp/book/detail/9784798147529)
+- [コンピュータの構成と設計　MIPS Edition　第6版　上](https://bookplus.nikkei.com/atcl/catalog/21/S70090/)
+    - reading now
 
 
 ### FPGA
