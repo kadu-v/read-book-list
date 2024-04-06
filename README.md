@@ -6,7 +6,7 @@ This repository list books that I have read.
 - [ゼロからわかるネットワーク超入門 ―基礎知識からTCP/IPまで 改訂第3版](https://gihyo.jp/book/2023/978-4-297-13643-7)
 - [［改訂新版］3分間ネットワーク基礎講座](https://gihyo.jp/book/2010/978-4-7741-4373-6)
 - [マスタリングTCP/IP　入門編（第6版](https://www.ohmsha.co.jp/book/9784274224478/)
-    - reading now
+
 
 ## Design Pattern・Architecture
 ### Design Pattern
