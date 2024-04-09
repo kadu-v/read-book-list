@@ -15,9 +15,10 @@ This repository list books that I have read.
 - [デザインパターンとともに学ぶ
 オブジェクト指向のこころ](https://www.maruzen-publishing.co.jp/item/?book_no=294729)
     - not yet
-### Architecture
 - [ソフトウェアアーキテクチャの基礎](https://www.oreilly.co.jp//books/9784873119823/)
     - reading now
+### Architecture
+- [コンピュータの構成と設計　MIPS Edition　第6版　上](https://bookplus.nikkei.com/atcl/catalog/21/S70090/?cx_testId=4&cx_testVariant=cx_1&cx_artPos=0&i_cid=nbpbkp_atcl_rec#cxrecs_s)
 - [コンピュータの構成と設計　MIPS Edition　第6版　下](https://bookplus.nikkei.com/atcl/catalog/21/S70100/?cx_testId=4&cx_testVariant=cx_1&cx_artPos=2&i_cid=nbpbkp_atcl_rec#cxrecs_s)
     - not yet
 
@@ -60,6 +61,8 @@ This repository list books that I have read.
 - [PythonではじめるKaggleスタートブック](https://www.kspub.co.jp/book/detail/5190067.html)
 - [Kaggleで学んでハイスコアをたたき出す！ Python機械学習&データ分析](https://www.shuwasystem.co.jp/book/9784798061863.html)
 - [Kaggleで勝つデータ分析の技術](https://gihyo.jp/book/2019/978-4-297-10843-4)
+- [Vision Transformer入門](https://gihyo.jp/book/2022/978-4-297-13058-9)
+  - reading now
 
 
 ## Low-level programming
