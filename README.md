@@ -81,9 +81,6 @@ This repository list books that I have read.
 - [コンピュータシステムの理論と実装 ―モダンなコンピュータの作り方](https://www.oreilly.co.jp/books/9784873117126/)
     - ([repo that has my cpu implemnted by FPGA](https://github.com/nishi-7/ChiselHackCPU))
 - [ディジタル回路設計とコンピュータアーキテクチャ 第2版](https://www.shoeisha.co.jp/book/detail/9784798147529)
-- [コンピュータの構成と設計　MIPS Edition　第6版　上](https://bookplus.nikkei.com/atcl/catalog/21/S70090/)
-    - reading now
-
 
 ### FPGA
 - [わかるVerilog HDL入門―文法の基礎から論理回路設計、論理合成、実装まで (トランジスタ技術SPECIAL)](https://shop.cqpub.co.jp/hanbai/books/37/37561.htm)
