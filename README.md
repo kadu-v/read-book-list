@@ -32,6 +32,10 @@ This repository list books that I have read.
 - [動かして学ぶ！Python Django開発入門 第2版](https://www.shoeisha.co.jp/book/detail/9784798174198)  
     - ([repo](https://github.com/kadu-v/django-learn))
 
+## DB
+- [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798157825)
+    - reading now
+
 
 ## Mobile App
 ### Swift & iOS
