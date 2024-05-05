@@ -62,7 +62,6 @@ This repository list books that I have read.
 - [Kaggleで学んでハイスコアをたたき出す！ Python機械学習&データ分析](https://www.shuwasystem.co.jp/book/9784798061863.html)
 - [Kaggleで勝つデータ分析の技術](https://gihyo.jp/book/2019/978-4-297-10843-4)
 - [Vision Transformer入門](https://gihyo.jp/book/2022/978-4-297-13058-9)
-  - reading now
 
 
 ## Low-level programming
