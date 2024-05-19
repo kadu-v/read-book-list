@@ -35,7 +35,7 @@ This repository list books that I have read.
 ## DB
 - [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798157825)
     - reading now
-
+- [SQL 第2版 ゼロからはじめるデータベース操作](https://www.shoeisha.co.jp/book/detail/9784798144450)
 
 ## Mobile App
 ### Swift & iOS
