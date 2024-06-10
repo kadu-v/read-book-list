@@ -7,6 +7,8 @@ This repository list books that I have read.
 - [［改訂新版］3分間ネットワーク基礎講座](https://gihyo.jp/book/2010/978-4-7741-4373-6)
 - [マスタリングTCP/IP　入門編（第6版](https://www.ohmsha.co.jp/book/9784274224478/)
 - [インフラ／ネットワークエンジニアのためのネットワーク技術＆設計入門 第2版](https://www.sbcr.jp/product/4797396805/)
+- [TCP/IP技術入門——プロトコルスタックの基礎×実装［HTTP/3, QUIC, モバイル, Wi-Fi, IoT］](https://gihyo.jp/book/2024/978-4-297-14157-8)
+    - reading now
 
 ## Design Pattern・Architecture
 ### Design Pattern
@@ -21,6 +23,7 @@ This repository list books that I have read.
 - [コンピュータの構成と設計　MIPS Edition　第6版　上](https://bookplus.nikkei.com/atcl/catalog/21/S70090/?cx_testId=4&cx_testVariant=cx_1&cx_artPos=0&i_cid=nbpbkp_atcl_rec#cxrecs_s)
 - [コンピュータの構成と設計　MIPS Edition　第6版　下](https://bookplus.nikkei.com/atcl/catalog/21/S70100/?cx_testId=4&cx_testVariant=cx_1&cx_artPos=2&i_cid=nbpbkp_atcl_rec#cxrecs_s)
     - not yet
+- [プログラマーのためのCPU入門 ― CPUは如何にしてソフトウェアを高速に実行するか](https://www.lambdanote.com/products/cpu)
 
 ## Web
 ### React
@@ -34,7 +37,6 @@ This repository list books that I have read.
 
 ## DB
 - [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.shoeisha.co.jp/book/detail/9784798157825)
-    - reading now
 - [SQL 第2版 ゼロからはじめるデータベース操作](https://www.shoeisha.co.jp/book/detail/9784798144450)
 
 ## Mobile App
